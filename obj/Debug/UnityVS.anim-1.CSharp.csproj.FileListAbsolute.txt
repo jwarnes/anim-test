@@ -1,0 +1,7 @@
+C:\Projects\personal\anim-1\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Projects\personal\anim-1\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Projects\personal\anim-1\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Projects\personal\anim-1\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Projects\personal\anim-1\obj\Debug\UnityVS.anim-1.CSharp.csprojResolveAssemblyReference.cache
+C:\Projects\personal\anim-1\obj\Debug\Assembly-CSharp.dll
+C:\Projects\personal\anim-1\obj\Debug\Assembly-CSharp.pdb
